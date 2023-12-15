@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=scantykneesocks&fontSize=90)
 # scantykneesocks.github.io
-blog
-<img height="300" width="300" src="https://github.com/scantykneesocks/GCP_project/assets/74139537/a4f8eb79-14c8-48ec-bc93-3f70d4d713a4"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scantykneesocks)](https://github.com/anuraghazra/github-readme-stats)
+<img height="300" width="300" src="https://github.com/scantykneesocks/GCP_project/assets/74139537/a4f8eb79-14c8-48ec-bc93-3f70d4d713a4"/><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scantykneesocks)](https://github.com/anuraghazra/github-readme-stats)<br>
