@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=scantykneesocks&fontSize=90)
 # scantykneesocks.github.io
 blog
-<img width="80%" src="https://github.com/scantykneesocks/GCP_project/assets/74139537/a4f8eb79-14c8-48ec-bc93-3f70d4d713a4"/>
+<img height="300" width="500" src="https://github.com/scantykneesocks/GCP_project/assets/74139537/a4f8eb79-14c8-48ec-bc93-3f70d4d713a4"/>
