@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=scantykneesocks&fontSize=90)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscantykneesocks%2Fhit-counter&count_bg=%233DC8A4&title_bg=%23555555&icon=&icon_color=%23F10C1F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/black?style=cplusplus&logo=cplusplus&logoColor=#00599C"/></a>aScript&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://visualstudio.microsoft.com/ko/" target="_blank"><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&amp;logo=visualstudio&amp;logoColor=white" style="max-width: 100%;"></a>
 # scantykneesocks.github.io
 <img height="300" width="300" src="https://github.com/scantykneesocks/GCP_project/assets/74139537/a4f8eb79-14c8-48ec-bc93-3f70d4d713a4"/><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scantykneesocks&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)<br>
