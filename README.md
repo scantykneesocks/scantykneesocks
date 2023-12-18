@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 # Main
 <h3> C/C++, MySQL </h3>
-<h4> C/C++, MySQL </h4>
-<h5> C/C++, MySQL </h5>
 
 # Focus on
 <h3> C#, GCP, ASP.NET CORE </h3>
-<h4> C#, GCP, ASP.NET COR </h4>
-<h5> C#, GCP, ASP.NET COR </h5>
 
 # scantykneesocks.github.io
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scantykneesocks&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)<br>
